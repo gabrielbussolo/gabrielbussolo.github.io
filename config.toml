@@ -1,0 +1,9 @@
+baseURL = 'https://gabrielbussolo.dev/'
+languageCode = 'en-us'
+title = 'Gabriel Bussolo'
+theme = 'paper'
+
+[params]
+    color = 'linen'                           # linen, wheat, gray, light
+    github = 'gabrielbussolo'
+    linkedin = 'gabrielbussolo'
